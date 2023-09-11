@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.main{
+display: flex;
+justify-content: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin:0px 20px 20px 0px;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
